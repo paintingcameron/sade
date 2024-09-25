@@ -1,6 +1,6 @@
 # SADE: Scene-text Autoregressive Diffusion Engine
 
-![OCR results comparison](./resources/ocr-results.png)
+![OCR results comparison](https://github.com/paintingcameron/sade/tree/master/resources/ocr-results.png)
 
 This repository is the accompanying code for the paper on SADE: Scene-text Autoregressive Diffusion Engine. Below are instructions for creating the mock datasets used in this paper and for training an autoregressive diffusion model. The repository used to train all OCR models was cloned from [here](https://github.com/clovaai/deep-text-recognition-benchmark).
 
@@ -44,7 +44,7 @@ This repository works with LMDB datasets. To create an lmdb directory, refer to 
 
 The following are some examples of outputs from SADE on mock Venezuelan number plates 
 
-![Mock images](./resources/mock-samples.png)
+![Mock images](https://github.com/paintingcameron/sade/tree/master/resources/mock-samples.png)
 
 
 ### License
