@@ -1,0 +1,10 @@
+
+experiments/
+datasets/
+env/
+build/
+mlruns/
+resources/
+
+*__pycache__/
+\.ipynb_*
